@@ -9,5 +9,7 @@ X=x*x
 y = y2 -y1
 Y=y*y
 new=X+Y
-print("The root of this number will be the distance between two points:", new)
+print("Distance between two points will be √",new)
 #Made by ProTec Games
+print("..........................................................")
+print("licence of this software is under ProTec Games")
