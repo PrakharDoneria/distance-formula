@@ -10,4 +10,4 @@ y = y2 -y1
 Y=y*y
 new=X+Y
 print("The root of this number will be the distance between two points:", new)
-#Their is a problem in this program this would not calculate under root please help if you know which syntax will make it work
+#Made by ProTec Games
