@@ -1,2 +1,3 @@
 # distance-formula
-This program will calculate the distance between two points but their is a problem in this software this does not calculate the under root if you know how to fix it kindly mail me it would be a big help
+This program will calculate the distance between two points
+Enter the values of x1, x2, y1 and y2 and click enter it would give you the result this is supported for PC and Mobile Compiler 
